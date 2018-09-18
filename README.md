@@ -1,5 +1,5 @@
 # BrowserBook - Back End
-This project a simple prototype to expose an API to [aanother application](https://github.com/romeukjr/DesenvolvimentoDeSoftware3-FE/) which has the front-end for this project.
+This project a simple prototype to expose an API to [another application](https://github.com/romeukjr/DesenvolvimentoDeSoftware3-FE/) which has the front-end for this project.
 
 ## Installation
 
